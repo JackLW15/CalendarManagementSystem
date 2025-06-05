@@ -7,5 +7,3 @@ The program has database file which needs to be running in order for the program
 The program contaians a login feature, adding, deleteing, updating event features, as well as viewing monthly events based on the selceted month.
 
 The program has some issues, that I am working on. The two problems is that the view monthly events feature is not working, because I have messed up the SQL command. The second problem is when you first run the program the user is promted to enter their login information. However my program just jumps right into the calander system. I bielve this is because the window pain hierarchy is providing conflicting information.
-
-There is an upload issue that I am trying to fix. All folders expept final+weatherly are supose to be in the packages folder
